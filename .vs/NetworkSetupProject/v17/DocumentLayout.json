@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyNam\\NetworkSetupProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|c:\\users\\mynam\\networksetupproject\\assets\\scripts\\clientplayermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clientplayermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|C:\\Users\\MyNam\\NetworkSetupProject\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|c:\\users\\mynam\\networksetupproject\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|c:\\users\\mynam\\networksetupproject\\assets\\scripts\\playeremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|C:\\Users\\MyNam\\NetworkSetupProject\\assets\\scripts\\clientnetworkanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clientnetworkanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|C:\\Users\\MyNam\\NetworkSetupProject\\assets\\scripts\\clientnetworktransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61BA7DC-38AB-A534-25C8-F4514A331771}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clientnetworktransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:35:28.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerEmote.cs",
+              "DocumentMoniker": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\PlayerEmote.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerEmote.cs",
+              "ToolTip": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\PlayerEmote.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerEmote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:22:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientPlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\ClientPlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClientPlayerMove.cs",
+              "ToolTip": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\ClientPlayerMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClientPlayerMove.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:27:26.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientNetworkTransform.cs",
+              "DocumentMoniker": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\ClientNetworkTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClientNetworkTransform.cs",
+              "ToolTip": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\ClientNetworkTransform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClientNetworkTransform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:19:40.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientNetworkAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\ClientNetworkAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClientNetworkAnimator.cs",
+              "ToolTip": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\ClientNetworkAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClientNetworkAnimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:17:00.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\MyNam\\NetworkSetupProject\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:43:50.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
